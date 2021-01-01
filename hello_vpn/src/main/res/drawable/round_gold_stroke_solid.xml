@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright © 2020 WireGuard LLC. All Rights Reserved.
+  ~ SPDX-License-Identifier: Apache-2.0
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <stroke android:color="#999"
+        android:width="1dp"/>
+
+    <solid
+        android:color="#888"
+        />
+
+    <corners android:radius="10dp"/>
+</shape>
